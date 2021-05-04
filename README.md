@@ -1,1 +1,2 @@
-this is practice for Atcoder
+## About 
+・this is practice for Atcoder
